@@ -3,12 +3,9 @@
 - Depression, psihologs
 - Sliktas atzīmes skola, konsultācijas laika labot un labāk izpētīt materiālu
 - Kaut kādas konflikts, mierīgi runāt
-
-Stress, atputas vai gulēt
-
-Naudas nav, veidot budžetu
-
-Veselibas problēmas, medicīniskās apskates
+- Stress, atputas vai gulēt
+- Naudas nav, veidot budžetu
+- Veselibas problēmas, medicīniskās apskates
 
 
 
