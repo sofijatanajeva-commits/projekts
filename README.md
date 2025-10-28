@@ -1,4 +1,4 @@
-# projekts
+# projekts (problemas)
 - bulling, neklausies
 - Depression, psihologs
 - Sliktas atzīmes skola, konsultācijas laika labot un labāk izpētīt materiālu
