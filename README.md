@@ -12,7 +12,7 @@ Veselibas problēmas, medicīniskās apskates
 
 
 
-##Kā tiek veikta noteikšana?
+## Kā tiek veikta noteikšana?
 
 Process parasti ietver šādus soļus:
 
