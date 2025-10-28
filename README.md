@@ -1,4 +1,5 @@
 # projekts (problemas)
+problemas var but šadas
 - bulling, neklausies
 - Depression, psihologs
 - Sliktas atzīmes skola, konsultācijas laika labot un labāk izpētīt materiālu
