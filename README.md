@@ -1,8 +1,8 @@
 # projekts
--bulling, neklausies
--Depression, psihologs
--Sliktas atzīmes skola, konsultācijas laika labot un labāk izpētīt materiālu
--Kaut kādas konflikts, mierīgi runāt
+- bulling, neklausies
+- Depression, psihologs
+- Sliktas atzīmes skola, konsultācijas laika labot un labāk izpētīt materiālu
+- Kaut kādas konflikts, mierīgi runāt
 
 Stress, atputas vai gulēt
 
