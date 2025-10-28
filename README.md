@@ -14,30 +14,30 @@ problemas var but šadas
 
 Process parasti ietver šādus soļus:
 
-Situācijas analīze
+- Situācijas analīze
 
 – Skola izvērtē esošo situāciju (rezultātus, vides faktorus, vajadzības)
 
-Mērķu noteikšana
+- Mērķu noteikšana
 
 – Kas jāsasniedz šogad / semestrī / nākotnē?
 
-Resursu izvērtēšana
+- Resursu izvērtēšana
 
 – Vai ir pietiekami skolotāji, laiks, telpas, finanses?
 
-Rīcības plāna izstrāde
+- Rīcības plāna izstrāde
 
 – Kas darīs, ko darīs, līdz kuram datumam?
 
-Sadarbība ar iesaistītajiem
+- Sadarbība ar iesaistītajiem
 
 – Skolēni, skolotāji, vecāki, pašvaldība utt.
 
-Apstiprināšana un īstenošana
+ - Apstiprināšana un īstenošana
 
 – Direktors vai skolas padome apstiprina plānus
 
-Uzraudzība un izvērtēšana
+- Uzraudzība un izvērtēšana
 
 – Regulāri seko līdzi, vai viss norit pēc plāna
