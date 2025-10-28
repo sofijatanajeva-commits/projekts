@@ -1,12 +1,12 @@
 # projekts (problemas)
 problemas var but šadas
-- bulling, neklausies
-- Depression, psihologs
-- Sliktas atzīmes skola, konsultācijas laika labot un labāk izpētīt materiālu
-- Kaut kādas konflikts, mierīgi runāt
-- Stress, atputas vai gulēt
-- Naudas nav, veidot budžetu
-- Veselibas problēmas, medicīniskās apskates
+- bulling (problema risinašana) neklausies
+- Depression (problema risinašana) psihologs
+- Sliktas atzīmes skola (problema risinašana) konsultācijas laika labot un labāk izpētīt materiālu
+- Kaut kādas konflikts (problema risinašana) mierīgi runāt
+- Stress (problema risinašana) atputas vai gulēt
+- Naudas nav (problema risinašana) veidot budžetu
+- Veselibas problēmas (problema risinašana) medicīniskās apskates
 
 
 
