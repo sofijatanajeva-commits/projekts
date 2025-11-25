@@ -40,4 +40,17 @@ Process parasti ietver šādus soļus:
 
 - Uzraudzība un izvērtēšana
 
-– Regulāri seko līdzi, vai viss norit pēc plāna
+– Regulāri seko līdzi, vai viss norit pēc plāna 
+
+📦 projekts/
+ ├── README.md
+ ├── data/
+ │    └── bullingebeb.odt     # Oriģinālais dokuments
+ ├── docs/
+ │    └── materials.md        # Papildu materiāli (ja nepieciešams)
+ ├── src/
+ │    └── examples/           # Koda piemēri, ja projekts tiks paplašināts
+ └── LICENSE
+
+Šis projekts ir pieejams ar MIT licenci.
+Vari to aizstāt ar jebkuru citu licenci, ja nepieciešams. 
